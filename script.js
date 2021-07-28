@@ -1,1 +1,5 @@
-console.log('I am a Node program');
+const characters = {
+    movies: [],
+    shows: [],
+    anime: []
+}
