@@ -9,8 +9,8 @@ Example output:
 
 Out of these 3 characters, who has the most power?
 1. Voldemort
-2. Lee Soogeun
+2. Captain America
 3. Light Yagami
 
 Are there any characters that you recognize???
-*I mostly watch korean variety shows, anime, and mainstream hero movies so this may show in my character selections haha*
+*I mostly watch netflix shows, anime, and mainstream movies so this may show in my character selections haha*
