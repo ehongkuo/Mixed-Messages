@@ -26,5 +26,10 @@ This project was created with:
 * Javascript
 
 ## Setup
+To run this project, install it locally using npm:
+
+```
 git clone [url]
 npm install
+npm start
+```
