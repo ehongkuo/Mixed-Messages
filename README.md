@@ -26,4 +26,5 @@ This project was created with:
 * Javascript
 
 ## Setup
-
+git clone [url]
+npm install
