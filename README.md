@@ -6,6 +6,8 @@
 * [Setup](#setup)
 
 ## General Info
+Introductory Javascript Project: Mixed Messages!
+
 Its a showdown!!!
 
 Pit 3 characters from movies, shows, and japanese anime against each other in terms of various competitions!!
@@ -19,7 +21,7 @@ Out of these 3 characters, who has the most power?
 3. Light Yagami
 
 Are there any characters that you recognize???
-*I watch netflix shows, anime, and mainstream movies so this may show in my character selections haha*
+*I watch netflix shows, anime, and mainstream movies so this may show in my character selections!*
 
 ## Technologies
 This project was created with:
